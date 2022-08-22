@@ -1,5 +1,5 @@
 <h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm David Lopes</h1>
-<h3 align="center">A automation engineer focused on learning web and mobile development</h3>
+<h3 align="center">I'm a Front-end developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=C0W3T4" alt="C0W3T4" /> </p>
 
 - 📫 How to reach me **davidglcometa@gmail.com**
