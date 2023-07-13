@@ -3,11 +3,7 @@
 <h4 align="left">
   <i>Front-end developer</i>
 </h4>
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=C0W3T4" alt="C0W3T4" />
-</p>
 <hr />
-
 <h4 align="left">Technologies</h4>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="24" height="24"/>
@@ -26,6 +22,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="24" height="24"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="24" height="24"/>
 </p>
-<!-- <p align="center">
+<hr />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=C0W3T4" alt="C0W3T4" />
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=C0W3T4&show_icons=true" alt="C0W3T4"/> 
-</p> -->
+</p>
