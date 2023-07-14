@@ -4,7 +4,7 @@
   <i>Front-end developer</i>
 </h4>
 <hr />
-<p>I'm a developer who believes that source code is like a joke. If you have to explain it, it's probably not that good. 😄💻</p>
+<p>Source code is like a joke. If you have to explain it, it's probably not that good. 😄💻</p>
 <hr />
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="24" height="24"/>
