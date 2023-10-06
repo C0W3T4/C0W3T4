@@ -1,7 +1,5 @@
 <h1 align="center">Hi there! 😎</h1>
-<h3 align="left">
-  <i>Software Developer 💻</i>
-</h3>
+<h3 align="left">Software Developer 💻</h3>
 <hr />
 <p>Source code is like a joke. If you have to explain it, it's probably not that good. 😄</p>
 <hr />
