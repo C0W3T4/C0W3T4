@@ -1,9 +1,9 @@
 <h1 align="center">Hi there! 😎</h1>
 <h3 align="left">
-  <i>Software Developer</i>
+  <i>Software Developer 💻</i>
 </h3>
 <hr />
-<p>Source code is like a joke. If you have to explain it, it's probably not that good. 😄💻</p>
+<p>Source code is like a joke. If you have to explain it, it's probably not that good. 😄</p>
 <hr />
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="24" height="24"/>
